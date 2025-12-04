@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="e-b;(tp|q]Lv4Nn0]29a" x="0" y="0"><statement name="HANDLER"><block type="device_show_number" id="4MSh=k#g9K0?4Nh(b0dC"><value name="number"><shadow type="math_number" id="2`0$nJutZ0zhJ2FJ;LQp"><field name="NUM">0</field></shadow></value><next><block type="device_show_leds" id="]NRZz+EZbsiWM_rq*mu{"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="basic_show_icon" id="hkhFl|oOgHv{B`dN|[_D"><field name="i">IconNames.Sword</field><next><block type="device_print_message" id=".QfO1e3m+}bK~#jl`ojd"><value name="text"><shadow type="text" id="_`J/;i2plS*9g#dpgYp$"><field name="TEXT">นาย ชลิตชัย ภูปาทา และ นาย ธนาคาร ชัยศิริ  บางละมุงschool </field></shadow></value><next><block type="device_pause" id="k=;TI)SX%;*PTH8N{F`w"><value name="pause"><shadow type="timePicker" id="}9w*344iZY^-!:=@$+MO"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></next></block></statement></block></xml>
